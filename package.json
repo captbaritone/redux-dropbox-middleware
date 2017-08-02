@@ -1,0 +1,27 @@
+{
+  "name": "dropbox-redux-middleware",
+  "version": "0.0.0",
+  "description": "Persist/rehydrate your Redux state to/from Dropbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tdd": "jest --watch"
+  },
+  "keywords": [
+    "Dropbox",
+    "Redux",
+    "middleware"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^2.5.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-jest": "^20.0.3",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^20.0.4",
+    "r": "0.0.5"
+  }
+}
