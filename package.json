@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "tdd": "jest --watch"
+    "tdd": "jest --watch",
+    "lint": "eslint .",
+    "fix": "eslint --fix ."
   },
   "keywords": [
     "Dropbox",
@@ -21,7 +23,9 @@
     "babel-cli": "^6.24.1",
     "babel-jest": "^20.0.3",
     "babel-preset-env": "^1.6.0",
+    "eslint": "^4.3.0",
+    "eslint-plugin-prettier": "^2.1.2",
     "jest-cli": "^20.0.4",
-    "r": "0.0.5"
+    "prettier": "^1.5.3"
   }
 }
