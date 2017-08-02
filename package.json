@@ -1,5 +1,5 @@
 {
-  "name": "dropbox-redux-middleware",
+  "name": "redux-dropbox-middleware",
   "version": "0.0.0",
   "description": "Persist/rehydrate your Redux state to/from Dropbox.",
   "main": "index.js",

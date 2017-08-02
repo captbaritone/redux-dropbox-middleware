@@ -1,4 +1,4 @@
-# Dropbox Redux Middleware
+# Redux Dropbox Middleware
 
 Work in progress
 
