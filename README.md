@@ -1,3 +1,6 @@
+[![Build
+Status](https://travis-ci.org/captbaritone/redux-dropbox-middleware.svg?branch=master)](https://travis-ci.org/captbaritone/redux-dropbox-middleware)
+
 # Redux Dropbox Middleware
 
 Work in progress
