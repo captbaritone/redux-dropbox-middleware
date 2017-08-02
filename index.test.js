@@ -1,4 +1,4 @@
-import createDropboxMiddleware from './';
+import {createDropboxMiddleware} from './';
 
 describe('createDropboxMiddleware', () => {
     it('returns the next action', () => {
